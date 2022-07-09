@@ -1,0 +1,4 @@
+Para poder utilizar el codigo correctamente en la raiz de tu proyecto realizar una carpeta llamada images
+descargar el Dataset_faces del siguiente link
+https://drive.google.com/drive/folders/1IBdKGAiWR_gGrmGbjCnUcdHxcgGgTuIU?usp=sharing
+y colocarlo igualmente en la raiz del proyecto
